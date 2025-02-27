@@ -23,7 +23,7 @@ This Power BI project analyzes survey data from data professionals across variou
 ## Images
 Here is a snapshot from the Power BI dashboard:
 
-![Dashboard Preview]![image](https://github.com/user-attachments/assets/4581c836-1679-41a9-8381-c926cd382a0e)
+[image](https://github.com/user-attachments/assets/4581c836-1679-41a9-8381-c926cd382a0e)
 
 
 ## How to Use
